@@ -1,5 +1,5 @@
-import router from './routes/route.js';
-import conn from './db/connection.js';
+import router from './src/routes/route.js';
+import conn from './src/db/connection.js';
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
